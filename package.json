@@ -1,8 +1,8 @@
 {
-  "name": "react-calendar-app",
-  "description": "single-page-application that allows us to schedule events",
+  "name": "freespeechaustin",
+  "description": "single-page-application that allows us to schedule poetry events",
   "version": "0.0.1",
-  "author": "Alexey Pedyashev",
+  "author": "John Zapata",
   "license": "MIT",
   "keywords": [
     "react",
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/apedyashev/react-calendar-app.git"
+    "url": "https://github.com/nofunjohnny/react-calendar-app.git"
   },
-  "bugs": "https://github.com/apedyashev/react-calendar-app/issues",
+  "bugs": "https://github.com/nofunjohnny/react-calendar-app/issues",
   "scripts": {
     "precommit": "npm test",
     "pretest": "eslint ./src --ext .js",
